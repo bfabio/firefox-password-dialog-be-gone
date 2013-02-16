@@ -1,0 +1,2 @@
+component {53486026-738b-11e2-9201-14dae923a2d4} components/nsLoginManagerPrompter.js
+contract @mozilla.org/login-manager/prompter;1 {53486026-738b-11e2-9201-14dae923a2d4}
